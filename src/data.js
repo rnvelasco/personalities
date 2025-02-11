@@ -1,0 +1,17 @@
+export const softwareDeveloperList = [{
+    name: 'Mike Beedle',
+    description: 'Mike Beedle is the founder and CEO of e-Architects Inc., a consulting company that specializes in application development using distributed objects and Internet technologies. Despite Mike\'s business demands, he has remained billing as an on-the-trenches consultant where he applies Scrum and XP together through XBreed. Mike was privileged to be an early adopter of the Scrum method, and has introduced Scrum to 7 organizations since the mid-90\'s. Mike\'s specialty is to coach companies in the creation of large scale reusable architectures involving many application teams. His record so far is 17 applications reusing the same components such as: workflows, visual components, transactions, business objects and architectural services. Mike has published in several areas including object technology, patterns, components, frameworks, software development, programming languages, reusability, workflow, BPR, and Physics. He has co-organized several workshops on objects, patterns, components, and software development through the last decade. He is co-author of Scrum, Agile Software Development with Ken Schwaber (Prentice Hall, fall 2001), a provocative book that assumes software development is more like new product development than the manufacturing-like processes that the software industry has used for the last 20 years.',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mike_Beedle.jpg/220px-Mike_Beedle.jpg',
+    alt: 'Picture of Mike Beedle'
+  }, {
+    name: 'Arie van Bennekum',
+    description: 'Arie van Bennekum has been actively involved in DSDM and the DSDM Consortium since 1997. Before that he had been working with Rapid Application Development. His passion for agile methods is based on delivering to customers what they really need in a way that really suits end- users and business. Because facilitated sessions are very important within the DSDM method and his passion for group processes and human behaviour, he is very often involved in projects as facilitator and coach. At this moment in time he is a member of the board of DSDM Consortium Benelux and accredited as a DSDM- practitioner, DSDM-trainer, DSDM Consultant and IAF Certified Professional Facilitator (CPF).',
+    url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuq6Yjj9nCu4s0_HlBMgwzD1spPc3NRkdijA&s',
+    alt: 'Picture of Arie van Bennekum'
+  }, {
+    name: 'Alistair Cockburn',
+    description: 'Alistair Cockburn, founder of Humans and Technology, is known for his extensive interviews of project teams. These interviews, together with his active participation on live projects, form the basis for his methodology designs: light but sufficient, and self-evolving. Alistair\'s work in the 1990s grew into the Crystal family of agile methodologies. Alistair and Jim Highsmith are now working together to evolve Crystal and the Adaptive ideas into recommendations for creating agile software development ecosystems, the meeting of generic methodology with a project team\'s specific situation. Alistair and Jim are co-sponsoring the Agile Software Development book series to publish techniques for personal growth and examples of agile methodologies that have been used successfully.',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alistair_Cockburn_%282007%29.jpg/220px-Alistair_Cockburn_%282007%29.jpg',
+    alt: 'Picture of Alistair Cockburn'
+  }];
+  
