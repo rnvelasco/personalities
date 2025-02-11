@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { softwareDeveloperList } from './data.js';
+import { softwareDeveloperList } from './data';
 import "./App.css";
 
 export default function Gallery() {
